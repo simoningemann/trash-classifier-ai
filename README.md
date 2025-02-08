@@ -1,3 +1,6 @@
+## Trash classifier AI
+Made as part of a course about machine learning at Roskilde University.
+
 # Log 0.1
 1. Downloaded dataset from https://github.com/garythung/trashnet
 2. Diveded data into approximately train (50%) validate(25%) and test (25%) folders
